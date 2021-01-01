@@ -151,31 +151,41 @@ ul li:hover:nth-child(2) a:after {
 }
 
 ul li:hover:nth-child(3) a {
-  background: #e4405f;
+  background: #fee12b;
 }
 ul li:hover:nth-child(3) a:before {
-  background: #d81c3f;
+  background: #ffd300;
 }
 ul li:hover:nth-child(3) a:after {
-  background: #e46880;
+  background: #fff200;
 }
 
 ul li:hover:nth-child(4) a {
-  background: #0382b1;
+  background: #e4405f;
 }
 ul li:hover:nth-child(4) a:before {
-  background: #034863;
+  background: #d81c3f;
 }
 ul li:hover:nth-child(4) a:after {
-  background: #3fb0dd;
+  background: #e46880;
 }
 
 ul li:hover:nth-child(5) a {
-  background: #e4405f;
+  background: #0382b1;
 }
 ul li:hover:nth-child(5) a:before {
-  background: #d81c3f;
+  background: #034863;
 }
 ul li:hover:nth-child(5) a:after {
+  background: #3fb0dd;
+}
+
+ul li:hover:nth-child(6) a {
+  background: #e4405f;
+}
+ul li:hover:nth-child(6) a:before {
+  background: #d81c3f;
+}
+ul li:hover:nth-child(6) a:after {
   background: #e46880;
 }
